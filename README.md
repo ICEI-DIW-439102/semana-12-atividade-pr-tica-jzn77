@@ -4,12 +4,10 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: João Pedro Lemos Faria
+- Matricula: 1626142
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
-
-<<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
-
+![Lista Filmes](print1.png)
+![Pesquisa](print2.png)
